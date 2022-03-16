@@ -131,6 +131,10 @@ p {
   font-weight: 300;
 }
 
+footer {
+  background-color: #a06b39;
+}
+
 footer img {
   max-width: 30px;
   display: inline;
